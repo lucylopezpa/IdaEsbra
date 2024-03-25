@@ -1,0 +1,21 @@
+{
+  "id": "https://lucylopezpa.github.io/IdaEsbra/iiif/CasaPrado/manifest/page-1.json",
+  "items": [
+    {
+      "id": "https://lucylopezpa.github.io/IdaEsbra/iiif/CasaPrado/manifest/image-1.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://lucylopezpa.github.io/IdaEsbra/iiif/CasaPrado/manifest/canvas-1.json",
+      "body": {
+        "id": "https://lucylopezpa.github.io/IdaEsbra/iiif/CasaPrado/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 3994,
+        "width": 5475
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}

@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
-<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2024-03-23T13:31:51.146169-05" version="8.15.1">
+<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2024-03-25T17:48:47.324816-05" version="8.15.1">
   <properties>
     <property>
       <name>width</name>
-      <value type="gint">2146</value>
+      <value type="gint">4768</value>
     </property>
     <property>
       <name>height</name>
-      <value type="gint">3596</value>
+      <value type="gint">3562</value>
     </property>
     <property>
       <name>bands</name>
@@ -23,11 +23,11 @@
     </property>
     <property>
       <name>xres</name>
-      <value type="gdouble">2.8346456692913389</value>
+      <value type="gdouble">23.622047244094489</value>
     </property>
     <property>
       <name>yres</name>
-      <value type="gdouble">2.8346456692913389</value>
+      <value type="gdouble">23.622047244094489</value>
     </property>
     <property>
       <name>vips-loader</name>
@@ -44,6 +44,86 @@
     <property>
       <name>jpeg-chroma-subsample</name>
       <value type="VipsRefString">4:2:0</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Orientation</name>
+      <value type="VipsRefString">1 (Top-left, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Software</name>
+      <value type="VipsRefString">Windows Photo Editor 10.0.10011.16384 (Windows Photo Editor 10.0.10011.16384, ASCII, 38 components, 38 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-DateTime</name>
+      <value type="VipsRefString">2023:11:21 15:49:04 (2023:11:21 15:49:04, ASCII, 20 components, 20 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Padding</name>
+      <value type="VipsRefString">2060 bytes undefined data (2060 bytes undefined data, Undefined, 2060 components, 2060 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-XResolution</name>
+      <value type="VipsRefString">600000/1000 (600.000, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-YResolution</name>
+      <value type="VipsRefString">600000/1000 (600.000, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-ResolutionUnit</name>
+      <value type="VipsRefString">2 (Inch, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd1-Compression</name>
+      <value type="VipsRefString">6 (JPEG compression, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd1-XResolution</name>
+      <value type="VipsRefString">96/1 (96, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd1-YResolution</name>
+      <value type="VipsRefString">96/1 (96, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd1-ResolutionUnit</name>
+      <value type="VipsRefString">2 (Inch, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-DateTimeOriginal</name>
+      <value type="VipsRefString">2023:11:21 15:29:08 (2023:11:21 15:29:08, ASCII, 20 components, 20 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-DateTimeDigitized</name>
+      <value type="VipsRefString">2023:11:21 15:29:08 (2023:11:21 15:29:08, ASCII, 20 components, 20 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SubSecTimeOriginal</name>
+      <value type="VipsRefString">00 (00, ASCII, 3 components, 3 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SubSecTimeDigitized</name>
+      <value type="VipsRefString">00 (00, ASCII, 3 components, 3 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ColorSpace</name>
+      <value type="VipsRefString">1 (sRGB, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-Padding</name>
+      <value type="VipsRefString">2060 bytes undefined data (2060 bytes undefined data, Undefined, 2060 components, 2060 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExifVersion</name>
+      <value type="VipsRefString">Exif Version 2.1 (Exif Version 2.1, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FlashpixVersion</name>
+      <value type="VipsRefString">FlashPix Version 1.0 (FlashPix Version 1.0, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>orientation</name>
+      <value type="gint">1</value>
     </property>
     <property>
       <name>vips-sequential</name>

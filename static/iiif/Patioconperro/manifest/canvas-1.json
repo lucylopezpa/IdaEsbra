@@ -1,0 +1,30 @@
+{
+  "id": "https://lucylopezpa.github.io/IdaEsbra/iiif/Patioconperro/manifest/canvas-1.json",
+  "items": [
+    {
+      "id": "https://lucylopezpa.github.io/IdaEsbra/iiif/Patioconperro/manifest/page-1.json",
+      "items": [
+        {
+          "id": "https://lucylopezpa.github.io/IdaEsbra/iiif/Patioconperro/manifest/image-1.json",
+          "items": [],
+          "type": "Annotation",
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "motivation": "painting",
+          "target": "https://lucylopezpa.github.io/IdaEsbra/iiif/Patioconperro/manifest/canvas-1.json",
+          "body": {
+            "id": "https://lucylopezpa.github.io/IdaEsbra/iiif/Patioconperro/full/max/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 5062,
+            "width": 3561
+          }
+        }
+      ],
+      "type": "AnnotationPage"
+    }
+  ],
+  "type": "Canvas",
+  "width": 3561,
+  "height": 5062,
+  "annotations": []
+}

@@ -1,35 +1,52 @@
 const config = {
   "lang": "es",
   "localPort": "5173",
-  "base": "https://srsergiorodriguez.github.io",
-  "baseurl": "/serie-mini",
-  "title": "Serie Mini",
-  "subtitle": "Una plantilla para mini colecciones digitales",
-  "credits": "Por Sergio Rodríguez Gómez. Hecho con Serie Mini",
+  "base": "https://lucylopezpa.github.io",
+  "baseurl": "/IdaEsbra",
+  "title": "Colección Ida Esbra",
+  "subtitle": "Archivo Nina S. de Friedemann",
+  "credits": "Lucy López",
   "copyright": "Todos los derechos reservados, 2024",
   "pages": {
     "iiifViewer": true,
     "metadataToShow": [
       {
-        "key": "label",
-        "label": "Nombre",
+        "key": "identifier",
+        "label": "Identifier",
         "type": "text"
       },
       {
-        "key": "autor",
-        "label": "Autor",
+        "key": "title",
+        "label": "Title",
         "type": "text"
       },
       {
-        "key": "fecha",
-        "label": "Fecha",
+        "key": "creator",
+        "label": "Creator",
+        "type": "text"
+      },
+      {
+        "key": "date",
+        "label": "Date",
+        "type": "text"
+      },
+      {
+        "key": "description",
+        "label": "Description",
+        "type": "text"
+      },
+      {
+        "key": "medium",
+        "label": "Medium",
         "type": "text"
       }
     ],
     "metadataToIndex": [
-      "label",
-      "autor",
-      "fecha"
+      "title",
+      "creator",
+      "date",
+      "description",
+      "medium"
     ]
   }
 };

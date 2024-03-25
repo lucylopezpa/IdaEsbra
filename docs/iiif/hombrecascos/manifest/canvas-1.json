@@ -1,0 +1,30 @@
+{
+  "id": "https://lucylopezpa.github.io/IdaEsbra/iiif/hombrecascos/manifest/canvas-1.json",
+  "items": [
+    {
+      "id": "https://lucylopezpa.github.io/IdaEsbra/iiif/hombrecascos/manifest/page-1.json",
+      "items": [
+        {
+          "id": "https://lucylopezpa.github.io/IdaEsbra/iiif/hombrecascos/manifest/image-1.json",
+          "items": [],
+          "type": "Annotation",
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "motivation": "painting",
+          "target": "https://lucylopezpa.github.io/IdaEsbra/iiif/hombrecascos/manifest/canvas-1.json",
+          "body": {
+            "id": "https://lucylopezpa.github.io/IdaEsbra/iiif/hombrecascos/full/max/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 5252,
+            "width": 4140
+          }
+        }
+      ],
+      "type": "AnnotationPage"
+    }
+  ],
+  "type": "Canvas",
+  "width": 4140,
+  "height": 5252,
+  "annotations": []
+}

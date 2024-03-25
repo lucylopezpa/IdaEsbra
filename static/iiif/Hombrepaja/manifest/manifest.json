@@ -1,0 +1,42 @@
+{
+  "id": "https://lucylopezpa.github.io/IdaEsbra/iiif/Hombrepaja/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "10"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://lucylopezpa.github.io/IdaEsbra/iiif/Hombrepaja/manifest/canvas-1.json",
+      "items": [
+        {
+          "id": "https://lucylopezpa.github.io/IdaEsbra/iiif/Hombrepaja/manifest/page-1.json",
+          "items": [
+            {
+              "id": "https://lucylopezpa.github.io/IdaEsbra/iiif/Hombrepaja/manifest/image-1.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://lucylopezpa.github.io/IdaEsbra/iiif/Hombrepaja/manifest/canvas-1.json",
+              "body": {
+                "id": "https://lucylopezpa.github.io/IdaEsbra/iiif/Hombrepaja/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4176,
+                "width": 2780
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 2780,
+      "height": 4176,
+      "annotations": []
+    }
+  ]
+}

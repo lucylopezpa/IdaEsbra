@@ -4,14 +4,13 @@ name: tour
 
 # Recorrido por la colección
 
-Esta colección de muestra recopila varias imágenes con representaciones alegóricas de América hechas tomadas de [Rijksstudio](https://www.rijksmuseum.nl/en), la colección digital del Rijks Museum de Países Bajos. Todas las imágenes usadas están en el dominio público.
+Ida Esbra crea esta *Serie Huellas* entre los años 1975-1989, en la que documenta las tradiciones del Carnaval de Barranquilla, huellas de la africanía, condiciones de vida de la comunidad afro en el barrio Rebolo y la arquitectura del barrio El Prado en Barranquilla.
 
-Usa este archivo para incluir contenido que permita hacer un recorrido por la colección.
+Esta colección fotográfica pertenece a la Serie Huellas, dentro del archivo de Nina S. de Friedemann, que fue entregado en donación en el año 2.000 a la Biblioteca Luis Ángel Arango. 
 
-Para poner una imagen correspondiente a un ítem de la colección en este recorrido, usa el formato convencional de Markdown con el que se insertan imágenes: `![TEXTO ALTERNATIVO](URL)`, pero, en vez de poner la url, pon el pid de la imagen precedido por un signo de interrogación. Por ejemplo: `![TEST](!AdriaenCollaert)`. Así se mostrará una imagen que, si se cliquea, te llevará al elemento de la colección correspondiente.
 
-Así:
 
-![TEST](!AdriaenCollaert)
+![TEXTO ALTERNATIVO](!VistaBarranquilla)
 
-Puedes usar urls de imágenes externas con normalidad en el formato Markdown si no sigues esta convención.
+
+**Todas las imágenes están protegidas por derechos de autor. Está digitalización está autorizada por Jan y Saskia Esbra.** 

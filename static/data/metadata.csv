@@ -1,5 +1,17 @@
-pid,label,autor,fecha
-AdriaenCollaert,America Tortuga,Adriaen Collaert,1586
-JohannSadeler,America Loro,Johann Sadeler,1581
-PhilipsGalle,America Composición,Philips Galle,1547
-PhilipsGalle2,America Cabeza,Philips Galle,1585
+pid,label,identifier,title,creator,date,description,subject,ancho,alto,medium
+Hombreconnino,1,FT1948,Sin título,Ida Esbra,1976,"Artesano, niño, Barranquilla",Fotografía Colombia; Antropología,26,30,Gelatina de plata
+callerebolo1,2,FT1948,Huellas,Ida Esbra,1976,Calle Rebolo 1,Fotografía; Barranquilla(Atlántico); Barrio Rebolo,21,26,ft sobre papel
+Camion,3,FT1948,Serie Huellas. Sin título,Ida Esbra,1976,Camión Patio. El material gráfico corresponden al periodo huellas entre 1975-1989, Barranquilla(Atlántico); Barrio Rebolo,21,26,ft sobre papel
+callerebolo2,4,FT1948,Serie Huellas. Sin título,Ida Esbra,1976,Calle Rebolo 2,Fotografía; Condiciones sociales Barranquilla(Atlántico); Barrio Rebolo,21,26,ft sobre papel
+CasaPrado,5,FT1948,Serie Huellas. Sin título,Ida Esbra,1976,Casa Barrio El Prado,Arquitectura;  Barranquilla(Atlántico); Barrio El Prado,21,26,ft sobre papel
+VistaBarranquilla,6,FT1948,Sin título,Ida Esbra,1977,Vista Barranquilla. Construcción. Río Magdalena. ,Arquitectura; Barranquilla(Atlántico),26,30,Gelatina de plata sobre papel baritado
+casaconcamion,7,FT1948,Serie Huellas. Sin título,Ida Esbra,1976,Casa con camión. Barrio Rebolo.  ,Fotografía; Barranquilla(Atlántico); Barrio Rebolo,21,26,Gelatina de plata sobre papel baritado
+hombrebarril,8,FT1948,Serie Huellas. Sin título,Ida Esbra,1976,"Hombre empujando barril, cargando cajas",Fotografía; Barranquilla(Atlántico); Barrio Rebolo,21,26,Gelatina de plata sobre papel baritado
+hombrecascos,9,FT1948,Serie Huellas. Sin título,Ida Esbra,1977,Hombre herrando," Afrodescendientes -- Fotografías Barranquilla (Atlántico, Colombia) Negros -- Condiciones sociales -- Fotografías",26,30,Gelatina de plata sobre papel baritado
+Hombrepaja,10,FT1948,Serie Huellas. Sin título,Ida Esbra,1977,Artesano cargando paja," Afrodescendientes -- Fotografías Barranquilla (Atlántico, Colombia) Negros -- Condiciones sociales -- Fotografías",21,26,ft sobre papel
+Fajadaksa,11,FT1948,Serie Huellas. Sin título,Ida Esbra,1977,Fachada casa,Arquitectura; Barranquilla(Atlántico); Barrio Rebolo,21,26,Gelatina de plata sobre papel baritado
+Patioconperro,12,FT1948,Huellas,Ida Esbra,1976,Patio casa con perro. Barrio Rebololo," Afrodescendientes -- Fotografías Barranquilla (Atlántico, Colombia) Negros -- Condiciones sociales -- Fotografías",21,26,ft sobre papel
+Tendedero,14,FT1948,Serie Huellas. Sin título,Ida Esbra,1977,Tendedero de ropa. Barrio Rebolo, Barranquilla(Atlántico); Barrio Rebolo,21,26,ft sobre papel
+Fachadavarias,15,FT1948,Serie Huellas. Sin título,Ida Esbra,1977,Fachadas casas. calle Rebolo, Barranquilla(Atlántico); Barrio Rebolo,21,26,Gelatina de plata sobre papel baritado
+VistaAvenida,16,FT1948,Serie Huellas. Sin título,Ida Esbra,1977,Av Barranquilla,Fotografía; Barranquilla(Atlántico); Barrio Rebolo,21,26,Gelatina de plata sobre papel baritado
+Mesaconplantas,17,FT1949,Sin título,Ida Esbra,1977,"patio, casa",Fotografía; Barranquilla(Atlántico); Barrio Rebolo,21,26,ft sobre papel
